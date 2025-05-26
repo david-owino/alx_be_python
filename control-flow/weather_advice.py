@@ -1,5 +1,4 @@
-print("Welcome to your weather advisor")
-current_weather = input("What's the weather like today? (sunny/rainy/cold)").lower()
+current_weather = input("What's the weather like today? (sunny/rainy/cold): ").lower()
 
 weather_conditions = ["sunny", "rainy", "cold"]
 
